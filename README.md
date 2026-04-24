@@ -1,11 +1,34 @@
-# Sample Snack app
+# ShopList App - Pemrograman Mobile Pertemuan 6
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+## Nama & NIM
+- Nama: [Nama Kamu]
+- NIM:  [NIM Kamu]
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Fitur yang Diimplementasikan
+- [x] FlatList dengan 12+ produk
+- [x] Custom ProductCard component (file terpisah)
+- [x] keyExtractor dengan ID unik
+- [x] ListEmptyComponent (empty state)
+- [x] Search / Filter real-time
+- [x] Pull-to-Refresh
+- [x] Filter Kategori (E1) — isi jika dikerjakan
+- [x] Toggle List/Grid View (E2) — isi jika dikerjakan
+- [x] SectionList Mode (E3) — isi jika dikerjakan
+- [x] Sort Produk (E4) — isi jika dikerjakan
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## Screenshot
+### Tampilan Utama (List Produk)
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+
+### Tampilan Search — saat ada hasil
+[screenshot HP fisik di sini]
+
+### Tampilan Empty State — saat tidak ada hasil
+[screenshot HP fisik di sini]
+
+## Cara Menjalankan
+1. Clone repo  : git clone [url-repo-kamu]
+2. Install deps: npm install
+3. Jalankan    : npx expo start
+4. Scan QR Code dengan Expo Go di HP
