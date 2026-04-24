@@ -1,4 +1,4 @@
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/f203daf1-2901-4ea9-b460-351b153d0779" /># ShopList App - Pemrograman Mobile Pertemuan 6
+
 
 ## Nama & NIM
 - Nama: Esa Agape Sebayang
@@ -18,7 +18,7 @@
 
 ## Screenshot
 ### Tampilan Utama (List Products)
-
+https://github.com/esaaaaaaaaaaaa/pemmobile-p06-Esa-agape-sebayang/blob/main/pencarian.jpg
 
 
 
