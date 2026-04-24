@@ -1,4 +1,4 @@
-# ShopList App - Pemrograman Mobile Pertemuan 6
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/f203daf1-2901-4ea9-b460-351b153d0779" /># ShopList App - Pemrograman Mobile Pertemuan 6
 
 ## Nama & NIM
 - Nama: Esa Agape Sebayang
@@ -17,7 +17,9 @@
 - [x] Sort Produk (E4) — isi jika dikerjakan
 
 ## Screenshot
-### Tampilan Utama (List Produ)
+### Tampilan Utama (List Products)
+
+
 
 
 
