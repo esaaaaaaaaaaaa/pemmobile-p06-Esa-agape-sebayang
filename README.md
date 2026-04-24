@@ -26,7 +26,8 @@
 
 
 ### Tampilan Empty State — saat tidak ada hasil
-[screenshot HP fisik di sini]
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/43321997-3fb7-4417-94b3-beaf6b053b02" />
+
 
 ## Cara Menjalankan
 1. Clone repo  : git clone [url-repo-kamu]
