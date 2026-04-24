@@ -18,6 +18,7 @@
 
 ## Screenshot
 ### Tampilan Utama (List Products)
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/0287e25e-ef75-42de-9a4f-85189d4f6b7e" />
 
 
 
