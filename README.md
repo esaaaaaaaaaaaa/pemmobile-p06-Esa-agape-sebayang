@@ -1,8 +1,8 @@
 # ShopList App - Pemrograman Mobile Pertemuan 6
 
 ## Nama & NIM
-- Nama: [Nama Kamu]
-- NIM:  [NIM Kamu]
+- Nama: Esa Agape Sebayang
+- NIM: 243303621237
 
 ## Fitur yang Diimplementasikan
 - [x] FlatList dengan 12+ produk
