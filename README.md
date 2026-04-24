@@ -18,13 +18,13 @@
 
 ## Screenshot
 ### Tampilan Utama (List Products)
-https://github.com/esaaaaaaaaaaaa/pemmobile-p06-Esa-agape-sebayang/blob/main/pencarian.jpg
+
 
 
 
 
 ### Tampilan Search — saat ada hasil
-[screenshot HP fisik di sini]
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/8674b4f5-7268-4232-abca-6cfdfebd34
 
 ### Tampilan Empty State — saat tidak ada hasil
 [screenshot HP fisik di sini]
