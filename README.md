@@ -21,11 +21,9 @@
 <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/0287e25e-ef75-42de-9a4f-85189d4f6b7e" />
 
 
-
-
-
 ### Tampilan Search — saat ada hasil
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/8674b4f5-7268-4232-abca-6cfdfebd34
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/9bb87963-e0ca-4543-acf9-77a4bfc59e12" />
+
 
 ### Tampilan Empty State — saat tidak ada hasil
 [screenshot HP fisik di sini]
