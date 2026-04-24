@@ -17,7 +17,7 @@
 - [x] Sort Produk (E4) — isi jika dikerjakan
 
 ## Screenshot
-### Tampilan Utama (List Produk)
+### Tampilan Utama (List Produ)
 
 
 
